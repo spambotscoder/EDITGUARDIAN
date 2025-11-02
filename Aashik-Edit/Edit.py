@@ -24,7 +24,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(text="𝗦𝘂𝗽𝗽𝗼𝗿𝘁", url=f"https://t.me/Shona_bots"),
-        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"𝐓𝐒 𝐀𝐍𝐎𝐍𝐘𝐌𝐎𝐔𝐒 𝐏𝐀𝐏𝐀 𝐒𝐄 𝐑𝐄𝐏𝐎 𝐌𝐀𝐍𝐆𝐎"),
+        InlineKeyboardButton(text="𝗦𝗼𝘂𝗿𝗰𝗲", url=f"https://github.com/anonymouspapasemangrepo"),
     ],    
     [
         InlineKeyboardButton(text="𝗦𝗛𝗢𝗡𝗔", url=f"https://t.me/Theshonaqueen"),
